@@ -1,6 +1,6 @@
 # MiniFactory - Jim Phieffer
 ### Welcome to MiniFactory
-#### A game built by Jim Phieffer
+#### A game built by Jim
 Currently a work in progress\
 This game is just to teach myself some new things, not for profit or anything\
 Inspired by Factorio, shapez.io, and Satisfactory\
